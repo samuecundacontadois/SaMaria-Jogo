@@ -1,0 +1,23 @@
+// [início, fim (minutos do dia), mapa, [x, y em tiles]]
+export const SCHED = {
+  lais: [[420, 1080, 'hall', [11, 14]], [1080, 1440, 'common', [12, 13]]],
+  pedro: [[420, 1080, 'hall', [4, 17]], [1080, 1440, 'common', [20, 13]]],
+  love: [[420, 1000, 'hall', [22, 13]], [1000, 1440, 'common', [16, 14]]],
+  arthur: [[420, 1440, 'corridor', [12, 9.5]]],
+  carlinhos: [[420, 1080, 'defesa', [14, 5.5]]],
+  biel: [[420, 1080, 'herbologia', [16, 5.5]]],
+  davi: [[420, 1080, 'pocoes', [16, 5.5]]],
+  gilka: [[420, 1440, 'library', [18, 12]]],
+  heitor: [[420, 1440, 'library', [21, 15]]],
+  crestani: [[420, 1440, 'corridor', [24, 12.5]]],
+  alves: [[420, 1440, 'corridor', [33, 13]]],
+  marcelo: [[420, 1080, 'lake', [20, 16]]],
+  rafa: [[420, 1080, 'lake', [14, 25]]],
+  retalho: [[0, 1440, 'hogsmeade', [28, 12.6]]],
+  ladrao: [[0, 1440, 'hogsmeade', [3.5, 19.5]]],
+  daniela: [[420, 1080, 'feiticos', [16, 5.5]]],
+  mel: [[0, 1440, 'hogsmeade', [6, 11.2]]],
+  borrao: [[0, 1440, 'hogsmeade', [15, 11.2]]],
+  rubi: [[0, 1440, 'hogsmeade', [33, 11.2]]],
+  violeta: [[0, 1440, 'hogsmeade', [24, 11.2]]],
+};
